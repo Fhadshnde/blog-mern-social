@@ -2,11 +2,16 @@
   "name": "backend",
   "version": "1.0.0",
   "main": "index.js",
+<<<<<<< HEAD
   "scripts": {"vercel-build": "npm run prepare && next build",
     "start": "node app.js"
   },
   "engines": {
     "node": "22.12.0"
+=======
+  "scripts": {
+    "start": "nodemon app.js"
+>>>>>>> a318599a1c9c900f952e3ecbf96fd044ea1ddd44
   },
   "keywords": [],
   "author": "",
